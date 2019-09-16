@@ -1,1 +1,6 @@
-This is a git repo
+Digital Business Card Mobile Application
+Digital business card on the go built in Expo, a toolchain built around React-Native
+Includes profile and contact information and a QR code link to my resume
+
+Link to open project in the browser (use QR scanner after):
+https://expo.io/@lezzhang/businesscard
